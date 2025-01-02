@@ -1,5 +1,5 @@
-# MPI-FCN-LSTM  (tensorflow-cpu)
-# Parallel FCN+LSTM
+# Parallel FCN+LSTM  (tensorflow-cpu)
+
 
 mpirun -n 32 python fcn_lstm_mpi.py
 
